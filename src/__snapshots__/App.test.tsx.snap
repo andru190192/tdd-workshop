@@ -1,0 +1,35 @@
+// Vitest Snapshot v1
+
+exports[`App Component > should render correctly 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1
+      class="text-3xl font-bold underline"
+    >
+      Hello world!
+    </h1>
+    <h1>
+      3 + 5
+    </h1>
+    <h1>
+      0
+    </h1>
+    <div
+      class="card"
+    >
+      <button>
+        Sumar
+      </button>
+    </div>
+    <div
+      class="card"
+    >
+      <button>
+        Ver Perfil GitHub
+      </button>
+    </div>
+  </div>
+</div>
+`;
